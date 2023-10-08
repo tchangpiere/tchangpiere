@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @tchangpiere im from cameroon 14 year old
-- 👀 I’m interested in codage
-- 🌱 I’m currently learning about js html css and python
+- 👋 Hi, I’m @tchangpiere im from cameroon 20 years old
+- 👀 I’m a young develloper full stack 
+- 🌱 I’m currently learning about js,html,css and python
 - 💞️ I’m looking to collaborate with a amazing 
 - 📫 How to reach me ...
 
